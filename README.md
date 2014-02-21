@@ -1,8 +1,8 @@
 jQuery.someData
 ===============
 
-[jQuery.someData][jquery.somedata] is a [jQuery][jquery] that allows you to get
-a variable number data attributes from an element as an object.
+[jQuery.someData][jquery.somedata] is a [jQuery][jquery] plugin that allows you to get
+a variable number data attributes from an element.
 
 **Only defined, non-null values are returned.**
 
