@@ -15,6 +15,12 @@
             "url": "http://www.deviantart.com/"
         }
     ],
+    "contributors": [ 
+        {
+            "name": "Woody Gilk",
+            "email": "woody.gilk@gmail.com"
+        }
+    ],
     "licenses": [
         {
             "type": "BSD-3-Clause",
