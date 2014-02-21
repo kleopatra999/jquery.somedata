@@ -1,0 +1,30 @@
+{
+    "name": "somedata",
+    "title": "deviantART somedata jQuery plugin",
+    "description": "jQuery plugin.",
+    "keywords": [
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "deviantART, Inc",
+        "url": "http://www.deviantart.com/"
+    },
+    "maintainers": [
+        {
+            "name": "deviantART, Inc",
+            "url": "http://www.deviantart.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "BSD-3-Clause",
+            "url": "https://github.com/deviantART/jquery.somedata/blob/master/LICENSES.txt"
+        }
+    ],
+    "bugs": "https://github.com/deviantART/jquery.somedata/issues",
+    "homepage": "http://deviantart.github.com/jquery.somedata/",
+    "docs": "https://github.com/deviantART/jquery.somedata/wiki",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
